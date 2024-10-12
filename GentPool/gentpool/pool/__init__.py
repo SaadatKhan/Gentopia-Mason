@@ -7,5 +7,9 @@ from .rewoo_template import *
 from .openai_template import *
 from .vanilla_template import *
 from .openai_memory_template import *
-from .vanilla-ziyu import *
-from .scholar-ziyu import *
+#from .vanilla-ziyu import *
+#from .scholar-ziyu import *
+from .test_agent import *
+from .google_scholar import *
+from .searcher import *
+from .pdf_reader import *
